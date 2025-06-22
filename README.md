@@ -7,7 +7,7 @@
   
 - 💻 Passionate about building efficient, user-friendly applications and exploring emerging technologies
    
-- 🌱 Currently expanding my skills in **Java, React, Node.js, Nest.js, and Spring Boot**
+- 🌱 Currently expanding my skills in **Java, React, Next.js, Node.js, and Express.js**
    
 - 🚀 Actively seeking opportunities to apply my knowledge and contribute to innovative, impactful projects  
 
